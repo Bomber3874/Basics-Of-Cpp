@@ -20,7 +20,7 @@ purpose is to demonstrate how to display output on the screen and
 understand the foundational components of a C++ program.
 
 
-# Key theoretical aspects include:
+Key theoretical aspects include:
 
  Header Files:
  These provide access to standard input-output functions. In this case, a
