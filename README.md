@@ -22,16 +22,16 @@ understand the foundational components of a C++ program.
 
 # Key theoretical aspects include:
 
-# Header Files:
+ Header Files:
  These provide access to standard input-output functions. In this case, a
  standard library is included to enable console output.
 
 
-# Main Function: 
+ Main Function: 
   Every C++ program begins execution from the main() function. It acts as the entry point.
 
 
-# Output Statement: 
+ Output Statement: 
 A standard command is used to send text to the screen, allowing the program to display "Hello, World!" when run.
 
 
