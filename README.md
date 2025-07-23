@@ -28,13 +28,13 @@ basic calculator.
 
 C++ is used in a wide variety of applications including:
 
-    Operating systems
+        Operating systems
 
-    Game development
+        Game development
 
-    Embedded systems
+        Embedded systems
 
-    Software development tools
+        Software development tools
 
 
 # 1. Hello World Program:
