@@ -74,9 +74,11 @@ Key Concepts:
 
     User Input: A standard input command is used to allow the user to enter two numbers.
 
-    Arithmetic Operations: The four basic operations—addition, subtraction, multiplication, and division—are performed using arithmetic operators.
+    Arithmetic Operations: The four basic operations—addition, subtraction, multiplication, 
+                           and division—are performed using arithmetic operators.
 
-    Output Display: The results of each operation are displayed clearly, showing how the input numbers relate to each operation.
+    Output Display: The results of each operation are displayed clearly, 
+                    showing how the input numbers relate to each operation.
 
 This version of the calculator is simpler and does not require conditional logic or operator selection from the user. Instead, it demonstrates how to process and display multiple results from a single pair of inputs.
 
