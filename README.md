@@ -1,6 +1,19 @@
 # AIM - To understand the basics of C++
 
 
+# Objective:
+
+    Understand the structure of a C++ program.
+
+    Learn how to include header files and use namespaces.
+
+    Practice input and output using cin and cout.
+
+    Perform basic arithmetic operations.
+
+    Handle division by zero gracefully.
+
+
 # Theory:
 
 C++ is a high-level, general-purpose 
@@ -9,6 +22,16 @@ programming paradigms. It is widely used for system/software development
  due to its performance, efficiency, and flexibility. This experiment 
 introduces two fundamental C++ programs: a "Hello World" display and a 
 basic calculator.
+
+C++ is used in a wide variety of applications including:
+
+    Operating systems
+
+    Game development
+
+    Embedded systems
+
+    Software development tools
 
 
 # 1. Hello World Program:
@@ -50,3 +73,15 @@ Key Concepts:
     Output Display: The results of each operation are displayed clearly, showing how the input numbers relate to each operation.
 
 This version of the calculator is simpler and does not require conditional logic or operator selection from the user. Instead, it demonstrates how to process and display multiple results from a single pair of inputs.
+
+# Conclusion:
+
+Through this experiment, we have:
+
+    Understood the basic syntax and structure of a C++ program.
+
+    Learned how to use #include, main(), and cout/cin statements.
+
+    Implemented a program to perform basic arithmetic operations.
+
+    Practiced the use of conditional logic to handle division errors.
